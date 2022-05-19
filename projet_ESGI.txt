@@ -1,3 +1,4 @@
 git init
 git add projet_ESGI.txt
 git commit -m "1er commit"
+git branch -M main
