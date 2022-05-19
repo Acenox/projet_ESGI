@@ -5,3 +5,4 @@ git branch -M main
 git remote add origin https://github.com/Acenox/projet_ESGI.git
 git push -u origin main
 Ajouter une ligne dans le fichier texte
+git add projet_ESGI.txt
