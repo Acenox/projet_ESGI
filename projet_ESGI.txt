@@ -3,3 +3,4 @@ git add projet_ESGI.txt
 git commit -m "1er commit"
 git branch -M main
 git remote add origin https://github.com/Acenox/projet_ESGI.git
+git push -u origin main
